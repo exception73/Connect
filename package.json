@@ -5,6 +5,7 @@
   "main": "backend/server.js",
   "scripts": {
     "dev": "nodemon backend/server.js"
+    "build": "tsc -p ."
   },
   "author": "",
   "license": "ISC",
