@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "backend/server.js",
+  "private": true,
   "scripts": {
     "dev": "nodemon backend/server.js",
     "start": "react-scripts start",
