@@ -4,8 +4,9 @@
   "description": "",
   "main": "backend/server.js",
   "scripts": {
-    "dev": "nodemon backend/server.js"
-    "build": "tsc -p ."
+    "dev": "nodemon backend/server.js",
+    "build": "react-scripts build",
+    "start": "react-scripts start"
   },
   "author": "",
   "license": "ISC",
