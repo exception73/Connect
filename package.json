@@ -6,8 +6,8 @@
   "private": true,
   "scripts": {
     "dev": "nodemon backend/server.js",
-    "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "build": "[my-framework] build --output public"
   },
   "author": "",
   "license": "ISC",
